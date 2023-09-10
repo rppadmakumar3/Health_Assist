@@ -1,0 +1,11 @@
+fastapi
+streamlit
+numpy
+importlib-metadata
+tensorflow
+opencv-python
+neural-compressor
+pillow==9.0.1
+uvicorn
+transformers
+python-multipart

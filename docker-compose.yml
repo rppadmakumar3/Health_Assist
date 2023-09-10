@@ -1,0 +1,51 @@
+  version: "3"
+  services:
+    frontend:
+      build:
+        context: ./frontend
+        dockerfile: Dockerfile
+      ports:
+        - "8501:8501"
+      networks:
+        - mynetwork
+      depends_on:
+        - disease_prediction
+        - medication_qaqc
+        - medical-imaging
+        - product-recommendation
+      
+
+    disease_prediction:
+      build:
+        context: ./backend/disease_prediction
+      ports:
+        - "8000:8000"
+      networks:
+        - mynetwork
+
+    medication_qaqc:
+      build:
+        context: ./backend/medication_qaqc
+      ports:
+        - "5002:5002"  # Adjust the port if needed
+      networks:
+        - mynetwork
+
+    medical-imaging:
+      build:
+        context: ./backend/medical-imaging
+      ports:
+        - "8004:8004"  # Adjust the port if needed
+      networks:
+        - mynetwork
+
+    product-recommendation:
+      build:
+        context: ./backend/product-recommendation
+      ports:
+        - "8006:8006"  # Adjust the port if needed
+      networks:
+        - mynetwork
+
+  networks:
+    mynetwork:

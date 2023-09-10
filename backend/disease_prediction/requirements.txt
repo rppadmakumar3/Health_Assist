@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+scikit-learn
+torch
+pandas
+neural-compressor
+intel_extension_for_pytorch

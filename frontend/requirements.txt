@@ -1,0 +1,6 @@
+altair
+pandas
+streamlit
+transformers
+torch
+matplotlib
