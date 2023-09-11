@@ -37,3 +37,4 @@ docker-compose up
 
 [Click Here to Watch Video](https://youtu.be/FLlyplbwutU)
 
+![HealthAssist](https://drive.google.com/file/d/1mjhhfNtHCYbvEqfo26TSLTj4qW2E-FqX/view?usp=sharing)
