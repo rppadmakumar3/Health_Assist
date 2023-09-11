@@ -6,6 +6,16 @@ Our **HealthAssist** web application represents a breakthrough in the field of d
 
 In addition to these core features, our application excels in **Medical Image Processing**, accurately detecting pneumonia in X-ray images and providing probability scores to aid healthcare professionals in diagnosis. For users seeking health-related products, our platform offers **Personalized recommendations** from popular online marketplaces, facilitating informed choices. With a user-friendly interface developed using **Streamlit**, a high-performance backend powered by **FastAPI**, and the optimization of machine learning models using **Intel OneAPI Libraries**, we aim to make healthcare smarter, more accessible, and safer for individuals and professionals alike.
 
+## AI - Reference Kits
+
+**Totally 5 AI Reference Kits used in my Project**
+
+1. Visual Quality Inspection
+2. Disease Predict
+3. Products Recommendation System
+4. Medical Imaging Diagnostics
+5. Chat Bot
+
 ## Setup
 
 #### Clone the Repository
