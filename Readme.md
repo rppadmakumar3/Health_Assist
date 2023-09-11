@@ -36,5 +36,3 @@ docker-compose up
 ## Demo Video
 
 [Click Here to Watch Video](https://youtu.be/FLlyplbwutU)
-
-![HealthAssist]([Assets/health_assist.png](https://github.com/rppadmakumar3/Health_Assist/blob/master/Assets/img_1.jpg)https://github.com/rppadmakumar3/Health_Assist/blob/master/Assets/img_1.jpg)
