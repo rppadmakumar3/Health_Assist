@@ -8,13 +8,12 @@ In addition to these core features, our application excels in **Medical Image Pr
 
 ## AI - Reference Kits
 
-**Totally 5 AI Reference Kits used in my Project**
+**Totally 4 AI Reference Kits used in my Project**
 
 1. Visual Quality Inspection
 2. Disease Predict
 3. Products Recommendation System
 4. Medical Imaging Diagnostics
-5. Chat Bot
 
 ## Setup
 
