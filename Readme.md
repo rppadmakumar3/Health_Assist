@@ -25,7 +25,7 @@ cd Health_Assist
 ```bash
 docker-compose build
 ```
-***This command will download required Docker images and build the project.***
+***This command will download the required Docker images and build the project.***
 
 #### Once the build process is complete, you can start the application using the following command
 
@@ -37,4 +37,4 @@ docker-compose up
 
 [Click Here to Watch Video](https://youtu.be/FLlyplbwutU)
 
-![HealthAssist](Assets/health_assist.png)
+![HealthAssist]([Assets/health_assist.png](https://github.com/rppadmakumar3/Health_Assist/blob/master/Assets/img_1.jpg)https://github.com/rppadmakumar3/Health_Assist/blob/master/Assets/img_1.jpg)
